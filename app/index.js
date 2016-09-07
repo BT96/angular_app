@@ -2,6 +2,7 @@
     'use strict';
 
     angular.module('singApp', [
+        'singApp.projects',
         'singApp.core',
         'singApp.dashboard',
         'singApp.form.elements',
